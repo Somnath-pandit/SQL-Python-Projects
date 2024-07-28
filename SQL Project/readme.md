@@ -1,7 +1,3 @@
-Here’s a detailed README file description for your Advanced SQL Analytics Project for GitHub:
-
----
-
 # Advanced SQL Analytics Project: Exploring an Instagram-like Dataset
 
 ## Project Overview
